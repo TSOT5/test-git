@@ -24,6 +24,8 @@ for i in my_list:
     
 
 
+
+
 #letter_to_check = input("what letter to check")
 
 #counter = 0

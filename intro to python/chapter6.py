@@ -5,7 +5,7 @@ my_dict = {
                  'college': ['clemson', "UCLA", 'NOT ALA'],
                  1:3}
 }
-print(isinstance(my_dict['football'][1], list))
+print(isinstance(my_dict['football']['nfl'], list))
     
 
 

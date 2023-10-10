@@ -12,8 +12,6 @@ if cartoadd:
 # car_adder("Honda")
 # car_adder("Chrystler")
 
-
-
 print(cars)
 
 #####################################################

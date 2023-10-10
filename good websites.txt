@@ -3,3 +3,14 @@ https://www.w3schools.com/python/
 
 book for python
 https://codingtemple.github.io/python/static/PythonCrashCourse.pdf
+
+pythontutor.com/visualize.html#mode=edit
+
+list comprehension in python
+tuples vs sets vs lists
+
+make sure to know lists in python
+
+dictionnaris in python are very fast    learn alot about dictionnaris
+python isinstance() function << look it up more
+redo chapter 8

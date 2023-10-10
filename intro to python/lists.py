@@ -13,4 +13,6 @@ print(my_list[1])
 
 my_list.remove(4)
 
+#lookup pop for python and figure out what it does
+
 print(my_list)
