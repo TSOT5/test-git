@@ -14,3 +14,5 @@ make sure to know lists in python
 dictionnaris in python are very fast    learn alot about dictionnaris
 python isinstance() function << look it up more
 redo chapter 8
+
+git rm -r --cached .    << is a good command to fix the issue of files not being updated on github
