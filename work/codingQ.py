@@ -25,9 +25,7 @@ def is_leap_year(a_year):
     return False
 
 #Question 5
-a_list = [1,2,3,4,5,6,7,8,9,10,11]
+
 def is_consecutive(a_list):
     
-    return a_list == list(range(a_list[0], a_list[-1]))
-
-print(is_consecutive(a_list))
+    return a_list == list(range(a_list[0], a_list[-1] + 1))
